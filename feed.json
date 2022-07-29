@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "/var/log/life",
+    "description": "",
+    "home_page_url": "https://v1ajeros.github.io/gh-pages",
+    "feed_url": "https://v1ajeros.github.io/gh-pages/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "JM"
+    },
+    "items": [
+        {
+            "id": "https://v1ajeros.github.io/gh-pages/ceosgeul.html",
+            "url": "https://v1ajeros.github.io/gh-pages/ceosgeul.html",
+            "title": "첫글",
+            "summary": "그냥 써내려가는 삶의 기록들",
+            "content_html": "<p>그냥 써내려가는 삶의 기록들</p>",
+            "author": {
+                "name": "JM"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-07-29T13:28:07+09:00",
+            "date_modified": "2022-07-29T13:28:21+09:00"
+        }
+    ]
+}

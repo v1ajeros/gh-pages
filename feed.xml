@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>/var/log/life</title>
+    <link href="https://v1ajeros.github.io/gh-pages/feed.xml" rel="self" />
+    <link href="https://v1ajeros.github.io/gh-pages" />
+    <updated>2022-07-29T13:28:21+09:00</updated>
+    <author>
+        <name>JM</name>
+    </author>
+    <id>https://v1ajeros.github.io/gh-pages</id>
+
+    <entry>
+        <title>첫글</title>
+        <author>
+            <name>JM</name>
+        </author>
+        <link href="https://v1ajeros.github.io/gh-pages/ceosgeul.html"/>
+        <id>https://v1ajeros.github.io/gh-pages/ceosgeul.html</id>
+
+        <updated>2022-07-29T13:28:21+09:00</updated>
+            <summary>
+                <![CDATA[
+                    그냥 써내려가는 삶의 기록들
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>그냥 써내려가는 삶의 기록들</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
